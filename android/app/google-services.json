@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545463263826",
+    "project_id": "fitnessapp-da79c",
+    "storage_bucket": "fitnessapp-da79c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545463263826:android:9192eab93d187f33a2b58b",
+        "android_client_info": {
+          "package_name": "com.example.sukri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRcxOpAvQafeJa7Nupc_kkS9JBnjdTBrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
